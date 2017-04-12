@@ -3,7 +3,7 @@ import requests
 import json
 import codecs
 import random
-i=0
+t=0
 list1 = {}
 print("In the mood for some jokes, are we?"
 for t in range (1,12):
